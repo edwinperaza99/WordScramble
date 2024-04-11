@@ -21,6 +21,15 @@ WordScramble is an engaging iOS word game built using SwiftUI, where players for
 3. Submit each word to earn points based on its length.
 4. Start a new game at any time to play with a different root word.
 
+## Points Breakdown
+
+The game awards points to players based on the length of the word they form:
+
+- **8 letters**: 100 points
+- **6-7 letters**: 75 points
+- **4-5 letters**: 50 points
+- **3 letters**: 25 points
+
 ## Technologies Used
 
 - **SwiftUI**: Used for building the user interface and handling user interactions.
